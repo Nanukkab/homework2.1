@@ -1,0 +1,34 @@
+div{
+    width: 1440x;
+    height: 1224px;
+    background-color: grey;
+}
+
+.boxx {
+    width: 448px;
+    height: 532px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.box{
+    width: 331px;
+    height: 69px;
+    background-color: black;
+    border-radius: 100px;
+}
+
+.box1{
+    width: 331px;
+    height: 69px;
+    background-color: white;
+    border-radius: 100px;
+    border: 5px solid color:black
+    border-color:black;   
+}
+
+.style{
+    background-color: black;
+    border-radius: 100px;
+
+}
